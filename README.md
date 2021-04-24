@@ -1,1 +1,1 @@
-# silly-story-generator-project
+# sillyStoryGenerator
